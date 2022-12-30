@@ -60,11 +60,11 @@
     "dimensions": []
   },
   "versionTag": {
-    "versionNumber": 0,
+    "versionNumber": 1,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1672362272693
+    "lastModifiedOn": 1672362295229
   },
   "creationTag": {
     "versionNumber": 0,
@@ -90,8 +90,6 @@
       {"name":"card_id","type":"string"},
       {"name":"first_active_month","type":"string"},
       {"name":"reward_program","type":"string"},
-      {"name":"latitude","type":"double"},
-      {"name":"longitude","type":"double"},
       {"name":"fico_score","type":"bigint"},
       {"name":"age","type":"bigint"}
     ],
