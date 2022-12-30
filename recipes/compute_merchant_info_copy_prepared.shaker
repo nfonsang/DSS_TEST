@@ -28,7 +28,10 @@
   },
   "explorationFilters": [],
   "columnUseScientificNotationByName": {},
-  "exploreUIParams": {},
+  "origin": "PREPARE_RECIPE",
+  "exploreUIParams": {
+    "autoRefresh": true
+  },
   "steps": [],
   "maxProcessedMemTableBytes": -1,
   "previewMode": "ALL_ROWS",
@@ -55,7 +58,13 @@
     "autoRefreshSample": false
   },
   "analysisColumnData": {},
-  "columnWidthsByName": {},
+  "columnWidthsByName": {
+    "latitude": 134,
+    "merchant_id": 127,
+    "merchant_category_id": 165,
+    "subsector_description": 197,
+    "longitude": 134
+  },
   "sorting": [],
   "globalSearchQuery": "",
   "coloring": {
