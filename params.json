@@ -172,7 +172,6 @@
     "dkuProperties": []
   },
   "name": "MLOps (Tutorial) for Administrator",
-  "projectStatus": "Sandbox",
   "imgPattern": 1,
   "showInitials": false,
   "metrics": {
@@ -230,11 +229,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 70,
+    "versionNumber": 71,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1672361404114
+    "lastModifiedOn": 1672361808874
   },
   "creationTag": {
     "versionNumber": 0,
@@ -250,7 +249,8 @@
     "downloads",
     "o16n",
     "tutorial",
-    "section:MLOps"
+    "section:MLOps",
+    "duplicated"
   ],
   "customFields": {},
   "checklists": {
