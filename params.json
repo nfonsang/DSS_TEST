@@ -171,8 +171,7 @@
     },
     "dkuProperties": []
   },
-  "name": "MLOps (Tutorial) for Administrator",
-  "projectStatus": "Sandbox",
+  "name": "MLOps (Tutorial) for Administrator (dev)",
   "imgPattern": 1,
   "showInitials": false,
   "metrics": {
@@ -230,11 +229,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 70,
+    "versionNumber": 72,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1672361404114
+    "lastModifiedOn": 1672361813437
   },
   "creationTag": {
     "versionNumber": 0,
@@ -244,13 +243,14 @@
     "lastModifiedOn": 1623793165728
   },
   "description": "# Welcome to the MLOps Tutorials\n\n\u003cp class\u003d\"text-center\"\u003e\n   \u003ca href\u003d\"https://academy.dataiku.com/path/mlops\" target\u003d\"_blank\" class\u003d\"btn btn-datasets-color btn-cta-big-mod\"\u003e\u003ci class\u003d\"icon-dku-sample_project\" class\u003d\"btn-cta-big-mod-icon\" /\u003e\u0026nbsp;Learning Path\n  \u003c/a\u003e\n\u003c/p\u003e\n\nIn a series of tutorials found in the [MLOps learning path](https://academy.dataiku.com/path/mlops), you will practice making automation scenarios more robust, deploying and version project bundles using the Project Deployer and Automation node, and packaging real-time API services to API nodes. \n\nThe first tutorial that uses this project is found in the [Preparing for Production](https://academy.dataiku.com/preparing-for-production) course.",
-  "shortDesc": "The starter project for tutorials in the [MLOps learning path](https://academy.dataiku.com/path/mlops).",
+  "shortDesc": "The starter project for tutorials in the [MLOps learning path](https://academy.dataiku.com/path/mlops).\nThe project *MLOPS_TUTORIAL_FOR_ADMINISTRATOR_DEV* was copied from *DKU_TUT_MLOPS* by Administrator on Dec 29th 2022",
   "tags": [
     "academy",
     "downloads",
     "o16n",
     "tutorial",
-    "section:MLOps"
+    "section:MLOps",
+    "duplicated"
   ],
   "customFields": {},
   "checklists": {
